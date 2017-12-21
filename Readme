@@ -6,6 +6,7 @@
 # https://www.python.org/
 # https://www.anaf.ro/anaf/internet/ANAF/informatii_publice/informatii_agenti_economici/RegPlataDefalcataTVA
 # url = "https://webservicesp.anaf.ro/AsynchWebService/api/v3/ws/tva"
+# url = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/ws/tva"
 # Warning in Romanian language
 # b) Orice tentativa de suprasolicitare a serverului va fi pedepsita conform reglementarilor in vigoare.
 # Warning in English language

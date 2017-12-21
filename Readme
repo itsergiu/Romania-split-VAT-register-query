@@ -20,7 +20,7 @@
 # The purpose of the application(script) is to query the Register for split VAT of Romania and return result in a CSV file.
 # The application is written in Python and does not have a GUI.
 # The quick and easy way to run the script is to install Anaconda which installs automatically Pyton an Jupyter Notebook.
-# Download entire project including subfolders.
+# Download entire project.
 # Steps to run:
 # 1. Install Anaconda https://www.anaconda.com/download.
 # 2. Run Jupyter. 

@@ -15,9 +15,9 @@
 # The code is written in Python.
 # The quick way to run the code is to install Anaconda which install automatically Pyton an Jupyter Notebook.
 # Steps to run:
-# 1. Install Anaconda
-# 2. Run Jupyter
-# 3. Open Jupyter Notebook file - split_vat_csv.ipynb
-# 4. Create source file
-# 5. Run indicated cell
-# 6. Open result file
+# 1. Install Anaconda.
+# 2. Run Jupyter. 
+# 3. Open Jupyter Notebook file - split_vat_csv.ipynb.
+# 4. Create source file. Save file in folder path_upload.
+# 5. Run indicated cell.
+# 6. Open result file from folder path_save.

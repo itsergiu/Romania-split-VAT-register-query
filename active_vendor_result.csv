@@ -1,0 +1,3 @@
+Vendor_key,Vendor_name,CUI,status_code,data,denumire,cui:,dataInceputSplitTVA,dataAnulareSplitTVA,statusSplitTVA
+SNN,S.N. NUCLEARELECTRICA S.A.,10874881,200,"[{'cui': '10874881', 'data': '2017-12-20'}]","SOCIETATEA NATIONALA ""NUCLEARELECTRICA"" SA",10874881,2017-09-29, ,True
+SNP,OMV PETROM S.A.,1590082,200,"[{'cui': '1590082', 'data': '2017-12-20'}]",OMV PETROM SA,1590082,,,False

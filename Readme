@@ -16,7 +16,7 @@
 # The quick way to run the code is to install Anaconda which install automatically Pyton an Jupyter Notebook.
 # Download entire project including subfolders.
 # Steps to run:
-# 1. Install Anaconda.
+# 1. Install Anaconda https://www.anaconda.com/download.
 # 2. Run Jupyter. 
 # 3. Open Jupyter Notebook file - split_vat_csv.ipynb.
 # 4. Create source file. Save file in folder path_upload.

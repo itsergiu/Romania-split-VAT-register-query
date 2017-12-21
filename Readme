@@ -11,7 +11,7 @@
 # Warning in English language
 # b) Any attempt to overload the server will be punished according to the regulations in force.
 
-# The purpose of the is query the Register for split VAT of Romania and return result in a file
+# The purpose of the is to query the Register for split VAT of Romania and return result in a file
 # The code is written in Python.
 # The quick way to run the code is to install Anaconda which install automatically Pyton an Jupyter Notebook.
 # Steps to run:

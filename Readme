@@ -14,6 +14,7 @@
 # The purpose of the is to query the Register for split VAT of Romania and return result in a file
 # The code is written in Python.
 # The quick way to run the code is to install Anaconda which install automatically Pyton an Jupyter Notebook.
+# Download entire project including subfolders.
 # Steps to run:
 # 1. Install Anaconda.
 # 2. Run Jupyter. 

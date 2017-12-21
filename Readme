@@ -7,17 +7,19 @@
 # https://www.anaconda.com/download/
 # http://jupyter.org/
 # https://www.python.org/
+
 # https://www.anaf.ro/anaf/internet/ANAF/informatii_publice/informatii_agenti_economici/RegPlataDefalcataTVA
 # url = "https://webservicesp.anaf.ro/AsynchWebService/api/v3/ws/tva"
 # url = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/ws/tva"
+
 # Warning in Romanian language
 # b) Orice tentativa de suprasolicitare a serverului va fi pedepsita conform reglementarilor in vigoare.
 # Warning in English language
 # b) Any attempt to overload the server will be punished according to the regulations in force.
 
-# The purpose of the application is to query the Register for split VAT of Romania and return result in a CSV file.
-# The code is written in Python.
-# The quick way to run the code is to install Anaconda which install automatically Pyton an Jupyter Notebook.
+# The purpose of the application(script) is to query the Register for split VAT of Romania and return result in a CSV file.
+# The application is written in Python and does not have a GUI.
+# The quick and easy way to run the script is to install Anaconda which installs automatically Pyton an Jupyter Notebook.
 # Download entire project including subfolders.
 # Steps to run:
 # 1. Install Anaconda https://www.anaconda.com/download.

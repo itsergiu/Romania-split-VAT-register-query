@@ -28,7 +28,7 @@
 # 2. Run Jupyter. 
 # 3. Perform a quick test for a single request which requires no files. 
 #    Open Jupyter Notebook file split_vat_csv_one_request.ipynb. Run cells. 
-#    If you get correct results you may continue with next steps.
+#    If you get correct results you can continue with next steps.
 # 4. Open Jupyter Notebook file - split_vat_csv.ipynb.
 # 5. Create source file. Save file in folder path_upload.
 # 6. Run indicated cell.

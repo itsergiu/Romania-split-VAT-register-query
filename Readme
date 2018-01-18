@@ -19,6 +19,7 @@
 # Warning in English language
 # b) Any attempt to overload the server will be punished according to the regulations in force.
 
+# How to check VAT split status of Romanian company
 # The purpose of the application(script) is to query the Register for split VAT of Romania and return result in a CSV file.
 # Further you can easy figure out that you can add other fields which ANAF webservice returns to perform also other checks.
 # The application is written in Python and does not have a GUI.

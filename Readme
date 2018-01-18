@@ -1,6 +1,7 @@
-# En: How to check VAT split status of a Romanian company?
-# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA?
+# En: Can one check automatically VAT split status of a Romanian company? Yes.
+# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA? Da.
 
+Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA? Da.
 # EN: Romania - Split VAT register query
 # RO: Romania - Interogare registru plata TVA defalcata
 
@@ -22,8 +23,8 @@
 # Warning in Romanian language
 # b) Orice tentativa de suprasolicitare a serverului va fi pedepsita conform reglementarilor in vigoare.
 
-# En: How to check VAT split status of a Romanian company?
-# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA?
+# En: Can one check automatically VAT split status of a Romanian company? Yes.
+# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA? Da.
 
 # The purpose of the application(script) is to query the Romanian ANAF register for split VAT status and return results in a CSV file.
 # Further you can easy figure out that you can add other fields which ANAF webservice returns to perform also other checks.

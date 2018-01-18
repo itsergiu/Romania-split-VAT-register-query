@@ -1,5 +1,5 @@
-# En: How to check VAT split status of Romanian company?
-# Ro: Pot verifica automat furnizorii care aplica TVA defalcat?
+# En: How to check VAT split status of a Romanian company?
+# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA?
 
 # EN: Romania - Split VAT register query
 # RO: Romania - Registru plata TVA defalcata
@@ -17,13 +17,13 @@
 # url = "https://webservicesp.anaf.ro/AsynchWebService/api/v3/ws/tva"
 # url = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/ws/tva"
 
-# Warning in Romanian language
-# b) Orice tentativa de suprasolicitare a serverului va fi pedepsita conform reglementarilor in vigoare.
 # Warning in English language
 # b) Any attempt to overload the server will be punished according to the regulations in force.
+# Warning in Romanian language
+# b) Orice tentativa de suprasolicitare a serverului va fi pedepsita conform reglementarilor in vigoare.
 
-# En: How to check VAT split status of Romanian company?
-# Ro: Pot verifica automat furnizorii care aplica TVA defalcat?
+# En: How to check VAT split status of a Romanian company?
+# Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA?
 
 # The purpose of the application(script) is to query the Register for split VAT of Romania and return result in a CSV file.
 # Further you can easy figure out that you can add other fields which ANAF webservice returns to perform also other checks.

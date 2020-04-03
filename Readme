@@ -1,6 +1,7 @@
 # SAP blog: https://blogs.sap.com/2017/12/18/vat-split-payment-mechanism-in-romania-2538317/
 
 # Execute in bindder split_vat_csv_one_request.ipynb
+# https://gesis.mybinder.org/binder/v2/gh/itsergiu/Romania-split-VAT-register-query/ed751c5ff40c55f6faa048593e67d1b024e1b338
 # https://mybinder.org/v2/gh/itsergiu/Romania-split-VAT-register-query/ed751c5ff40c55f6faa048593e67d1b024e1b338
 
 # En: Can one check automatically VAT split status of a Romanian company? Yes.

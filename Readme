@@ -1,7 +1,7 @@
 # SAP blog: https://blogs.sap.com/2017/12/18/vat-split-payment-mechanism-in-romania-2538317/
 
 # Execute in bindder split_vat_csv_one_request.ipynb
-# https://gesis.mybinder.org/binder/v2/gh/itsergiu/Romania-split-VAT-register-query/b46af2992cd54de65ceee10073015e237e6b9274
+# https://notebooks.gesis.org/binder/jupyter/user/itsergiu-romani--register-query-nfg4nn5d/notebooks/split_vat_csv_one_request.ipynb
 
 # En: Can one check automatically VAT split status of a Romanian company? Yes.
 # Ro: Se pot verifica automat furnizorii care aplica plata defalcata a TVA? Da.
